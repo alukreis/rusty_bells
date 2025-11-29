@@ -12,5 +12,5 @@ Run tests using the standard cargo methods e.g
 # Command Line
 Output all methods using:
 
-rusty_bells [number_of_bells]
+`rusty_bells [number_of_bells]`
 
